@@ -27,7 +27,11 @@
 					]
 				}
 			},
-			"response": []
+			"response": [
+				{
+					"message": "Hello World"
+				}
+			]
 		}
 	]
 }
