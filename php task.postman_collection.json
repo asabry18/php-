@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "8087c7a5-dc90-47b5-82b1-0ba6552aea5d",
+		"name": "php task",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "40720424",
+		"_collection_link": "https://nn7777-9268.postman.co/workspace/New-Team-Workspace~c0866d1e-c4f7-49e5-b2d0-f25e31826be1/collection/40720424-8087c7a5-dc90-47b5-82b1-0ba6552aea5d?action=share&source=collection_link&creator=40720424"
+	},
+	"item": [
+		{
+			"name": "http://127.0.0.1:8000/",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:8000/",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
